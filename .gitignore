@@ -1,0 +1,11 @@
+ControlApp_Web/node_modules/
+ControlApp_Cordova/node_modules/
+ControlApp_Cordova/platforms/
+ControlApp_Cordova/plugins/
+Firmware_NodeMCU/out/
+Firmware_NodeMCU/ld/
+Firmware_NodeMCU/.vscode/
+Firmware_NodeMCU/.cproject
+Firmware_NodeMCU/.project
+Firmware_Atmega/Robot2WDAtmega/Robot2WDAtmega/Debug
+Firmware_Atmega/Robot2WDAtmega/.vs/

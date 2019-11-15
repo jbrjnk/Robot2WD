@@ -1,0 +1,23 @@
+body{
+    background: rgba(0,212,255,1);
+    background: linear-gradient(0deg, rgba(1,11,47,1) 0%, rgba(22,118,157,1) 13%, rgba(0,212,255,1) 94%, rgba(255,255,255,1) 100%);
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.footer{
+    position: fixed;
+    left:0;
+    bottom:0;
+    width:100%;
+    color: white;
+    margin: 10pt
+}
+
+.floatLeft
+{
+    float: left
+}
+h1 {text-align: center; font-family: 'Courier New', Courier, monospace}
